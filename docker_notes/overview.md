@@ -1,5 +1,7 @@
 # 🚀 **Docker Engine Overview**
 
+![Overview](./images/docker_engine.png)
+
 ## 🚀 **Key Concepts Explained**
 
 ### 1. **What is Docker Engine?**
@@ -11,6 +13,8 @@ Just like a car engine is composed of parts (cylinders, throttle bodies, etc.), 
 ---
 
 ## 🧩 **Main Components of Docker Engine**
+
+![Engine components and responsibilities](./images/docker_engine_components.png)
 
 ### 1. **runc**
 #### What is it? 
@@ -102,6 +106,8 @@ You can inspect these running components using commands like:
 ```bash
 ps aux | grep docker
 ```
+
+![Summarizing the process](./images/summary1.png)
 
 ## 🏆 **Summary: Key Takeaways**
 
